@@ -1,0 +1,6 @@
+discord.py
+matplotlib
+Pillow
+requests
+pytz
+python-dotenv
