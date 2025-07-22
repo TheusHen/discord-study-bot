@@ -81,7 +81,7 @@ The bot needs the following permissions:
 
 ### Time Zone
 
-The bot is configured for `America/Sao_Paulo` timezone. To change it, modify the `TIMEZONE` variable in `bot.py`:
+The bot is configured for `America/Sao_Paulo` timezone. To change it, modify the `TIMEZONE` variable in `bot.py` or `.env`:
 
 ```python
 TIMEZONE = pytz.timezone("Your/Timezone")
