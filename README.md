@@ -42,12 +42,16 @@ A Discord bot designed to help study groups track daily study habits, maintain s
 
 3. **Configure the bot**
    
-   Edit `bot.py` and update the following variables:
+   Create and edit `.env` and update the following variables:
    ```python
    TOKEN = "YOUR_BOT_TOKEN_HERE"          # Your Discord bot token
    STUDY_CHANNEL_ID = 1234567890          # ID of your study channel
    REMINDER_CHANNEL_ID = 1234567890       # ID of your reminder channel
    GUILD_ID = 1234567890                  # ID of your Discord server
+
+   # Bot Settings
+   TIMEZONE=America/Sao_Paulo             # Your timezone
+   DATA_FILE=study_data.json              # Defalt .json
    ```
 
 4. **Font Setup**
