@@ -31,7 +31,7 @@ A Discord bot designed to help study groups track daily study habits, maintain s
 
 1. **Clone or download this project**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/TheusHen/discord-study-bot.git
    cd discord-study-bot
    ```
 
